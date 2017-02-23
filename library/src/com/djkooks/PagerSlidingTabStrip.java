@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.astuetz;
+package com.djkooks;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -41,7 +41,7 @@ import android.widget.TextView;
 
 import java.util.Locale;
 
-import com.astuetz.pagerslidingtabstrip.R;
+import com.djkooks.pagerslidingtabstrip.R;
 
 public class PagerSlidingTabStrip extends HorizontalScrollView {
 
